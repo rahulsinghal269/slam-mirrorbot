@@ -28,7 +28,7 @@ python3 generate_drive_token.py
 
 Fork this repo, than upload credentials.json and token.pickle to your forks
 
-<p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/rahulsinghal269/slam-mirrorbot"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 ## Features supported:
 - Mirroring direct download links to Google Drive
