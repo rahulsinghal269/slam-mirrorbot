@@ -224,4 +224,5 @@ except KeyError:
 app = Client('slam', api_id=TELEGRAM_API, api_hash=TELEGRAM_HASH, bot_token=BOT_TOKEN)
 updater = tg.Updater(token=BOT_TOKEN,use_context=True)
 bot = updater.bot
+bot.send_message(chat_id = -1001406567103,text="⚡Bot Rebooted⚡")
 dispatcher = updater.dispatcher
